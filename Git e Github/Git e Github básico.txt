@@ -1,0 +1,11 @@
+#Comandos básicos
+
+Para copiar um código usar o git clone e colar o url
+Faça as alterações e em seguida avalie o status com git status
+Adicione com o git add . ou git add e nome do arquivo 
+Faça o commit com commit -m "escreva sua mensagem". Se não seguir esses passos no commit vai entrar em uma tela da qual você não sabe sair e terá que recomeçar do zero.
+Nesse momento avalie no status se já está pronto para o push
+Use o comando git push origin main 
+
+
+Em caso de dúvidas use esse link para ver outras opções de comandos https://gist.github.com/leocomelli/2545add34e4fec21ec16
